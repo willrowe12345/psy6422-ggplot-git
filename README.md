@@ -1,3 +1,3 @@
 # psy6422-ggplot-git
 
-a conflict line 
+REMOTE: this is the remote conflict test line
