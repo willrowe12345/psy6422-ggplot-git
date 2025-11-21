@@ -1,3 +1,5 @@
 # psy6422-ggplot-git
 
-this is a local test conflict 2
+this is a local test conflict
+REMOTE: this is the remote conflict test line
+
