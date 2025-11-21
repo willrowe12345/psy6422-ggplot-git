@@ -9,5 +9,5 @@ ggplot(iris, aes(x= Petal.Length, y= Petal.Width, fill=Species)) +
        y= "Petal Width (cm)",
        title= "Petal width against length by species",
        subtitle = "Points show data lines show the trends of the flowers") +
-  theme_minimal() +
+  theme_bw() +
   geom_smooth(aes(colour= Species))
